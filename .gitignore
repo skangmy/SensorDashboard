@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Service Key
+DataHandler/newagent-182e8-firebase-adminsdk-kus6w-107bc79c70.json
